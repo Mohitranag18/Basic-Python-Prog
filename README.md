@@ -18,3 +18,25 @@ This repository contains a variety of Python programs covering basic to intermed
 - Basic Concepts: Palindrome Checker, Even/Odd Checker, Prime Numbers, etc.
 - Intermediate: Factorial, Fibonacci Sequence, List Operations, etc.
 - Advanced: Number Guessing Game, Matrix Operations, Rock-Paper-Scissors, and more.
+
+# How to Use
+
+1- Clone the repository:
+
+    git clone https://github.com/your-username/basic-python-prog.git
+
+2- Navigate to the folder:
+
+    cd basic-python-prog
+
+3- Run any program using Python:
+
+    python program_name.py
+
+# Contributions Welcome!
+
+If you have suggestions or want to contribute additional beginner-friendly programs, feel free to open a pull request. Let's make this a resourceful repository for Python learners! 🤝
+
+# License
+
+This project is licensed under the MIT License. Feel free to use and share the code!
